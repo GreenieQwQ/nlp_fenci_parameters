@@ -1,2 +1,2 @@
 # nlp_fenci_parameters
-fenci models parameter
+期中作业分词模型的训练参数。
